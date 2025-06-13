@@ -1,6 +1,6 @@
 # Login_System-
 it's my second semister project
-Name-Upadhyay Krisha Kalpeshkumar
+Author-Upadhyay Krisha Kalpeshkumar
 
 project details 
 # 🧑‍💻 User Management System in C++
